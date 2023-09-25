@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+.btn-class {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem; 
+    padding-left: 1rem;
+    padding-right: 1rem; 
+    margin-top: 2rem;
+    margin-bottom: 2rem; 
+    border-radius: 0.5rem; 
+    width: 100%; 
+    max-width: 28rem; 
+    background-color: #1F2937; 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);    
+}
+.heading{
+margin-top: 0.75rem;
+margin-bottom: 0.75rem; 
+text-align: center; 
+color: #ffffff; 
+}
+.container{
+display: flex; 
+overflow: hidden; 
+margin-bottom: 1rem; 
+border-radius: 0.5rem; 
+box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06); 
+}
+.btn-1{
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem; 
+    padding-left: 0.75rem;
+    padding-right: 0.75rem; 
+    outline-style: none; 
+    width: 100%; 
+}
+.btn-2{
+    padding-top: 0.125rem;
+    padding-bottom: 0.125rem; 
+    padding-left: 0.75rem;
+    padding-right: 0.75rem; 
+    shrink: 0; 
+    outline-style: none; 
+    color: #ffffff; 
+    background-color: #1D4ED8; 
+} */
